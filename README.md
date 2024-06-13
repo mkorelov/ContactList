@@ -2,6 +2,16 @@
 
 This is my implementation of a Contact List App using Java & JavaFX on an Apple Silicon Mac in VSCode. This was an assignment from CSE 110 Software Engineering at UCSD.
 
+![main menu](MainMenu.png)
+
+![add contact](AddContact.png)
+
+![upload image](UploadImage.png)
+
+![save contacts](SaveContactList.png)
+
+![delete contact](DeleteContact.png)
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
